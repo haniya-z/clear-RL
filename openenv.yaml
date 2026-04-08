@@ -1,0 +1,3 @@
+name: clear-env
+description: Customer support RL environment
+entry_point: clear_env.env:ClearEnv
